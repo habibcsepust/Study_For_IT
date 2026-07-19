@@ -1,0 +1,18 @@
+1. Answer all(5) questions
+a. What is the two prime advantage of Restful API.
+b. What is the common activities on OOP design process.
+c.what is the principles of agile method.
+d. Write down the equivalent SQL from following relatioal algebra.
+2. Answer all(4) Questions 
+a. Write down the output from following statement (c code output finding)
+b.Draw a entity diagram from following statement.
+Student (data)
+Course(data)
+Results (data)
+Registration
+c. From the diagram write down the process of prototype development.
+d. From the diagram write down the software evolution.
+3. Write a Java code with a case where you have  to mentioned functionalities with override method.
+4. Case Study 
+What team structure would you choose & why?
+What software method would you choose & why?
